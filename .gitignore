@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.superpowers/
+*.log
+*.pid
+.env
+.env.*
